@@ -4,13 +4,13 @@ Este projeto/estudo tem como objetivo a análise e tratamento de dados da popula
 
 ### As etapas do projeto incluíram:
 
-Coleta e limpeza dos dados, com o tratamento de valores ausentes e conversão de variáveis categóricas para numéricas.
+- Coleta e limpeza dos dados, com o tratamento de valores ausentes e conversão de variáveis categóricas para numéricas.
 
-Análise estatística e visualização, utilizando gráficos como boxplots, histogramas e matrizes de correlação para identificar padrões e outliers.
+- Análise estatística e visualização, utilizando gráficos como boxplots, histogramas e matrizes de correlação para identificar padrões e outliers.
 
-Desenvolvimento de um Jupyter Notebook para executar o código e realizar as análises de forma interativa.
+- Desenvolvimento de um Jupyter Notebook para executar o código e realizar as análises de forma interativa.
 
-Criação de um repositório Git, permitindo a colaboração contínua e a submissão para avaliação.
+- Criação de um repositório Git, permitindo a colaboração contínua e a submissão para avaliação.
 
 
 ### Resultados
