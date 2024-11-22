@@ -16,3 +16,5 @@ Este projeto/estudo tem como objetivo a análise e tratamento de dados da popula
 ### Resultados
 
 Os resultados obtidos oferecem uma visão detalhada sobre a alfabetização da população indígena e podem embasar futuras políticas públicas voltadas à inclusão educacional. O estudo também abre portas para a ampliação da análise com variáveis adicionais e o uso de técnicas de machine learning para previsões mais avançadas.
+
+[Gráficos](https://docs.google.com/document/d/1JQ2k5NWfcbz5HMYrJt7vbzoy9RwVasCI-BMcX_lsW10/edit?usp=drivesdk)
